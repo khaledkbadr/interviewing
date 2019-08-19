@@ -1,4 +1,4 @@
-# Trie
+# 208. Implement Trie (Prefix Tree)
 
 Trie is a special kind of tree which facilitate string searching where each node points to all the next characters in the provided words and root node represents empty string. For example the below trie representation shows how `khaled`, `kha`, `khalid`, `karam`, `bob` is stored
 
